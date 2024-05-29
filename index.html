@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ridoy Mojumder - Junior Front-end Developer</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@1.11.0/dist/full.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="navbar bg-blue-100 bg-opacity-80 text-black px-4 py-3 fixed flex justify-end top-0 left-0 w-full z-50">
+        <ul class="flex justify-center">
+            <li class="mx-4">
+                <a href="#home" class="nav-link">Home</a>
+            </li>
+            <li class="mx-4">
+                <a href="#about" class="nav-link">About</a>
+            </li>
+            <li class="mx-4">
+                <a href="#skills" class="nav-link">Skills</a>
+            </li>
+            <li class="mx-4">
+                <a href="#portfolio" class="nav-link">Portfolio</a>
+            </li>
+            <li class="mx-4">
+                <a href="#contact" class="nav-link">Contact</a>
+            </li>
+            <li class="mx-4">
+                <a href="signIn.html" class="bg-indigo-300 hover:bg-indigo-600 text-black px-4 py-2 rounded-full transition duration-300">Sign In</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="hero bg-cover min-h-screen bg-center mt-16 relative" id="home" style="background-image: url('https://i.ibb.co/wMq01qt/photo-2024-05-17-22-50-53-2.jpg');">
+        <div class="max-w-4xl mx-auto py-24 text-center text-white relative z-10">
+            <h1 class="text-5xl font-bold">Welcome to My World</h1>
+            <p class="mt-4 text-lg">Embark on a journey of creativity and innovation with me.</p>
+            <button class="mt-8 btn btn-primary bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded">Get Started</button>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div id="about" class="about-section bg-white pt-16 pb-20">
+        <div class="max-w-6xl mx-auto px-4">
+            <h2 class="text-5xl font-bold text-center mb-16 text-indigo-600 font-poppins">About Me</h2>
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-8 items-center">
+                <div class="md:col-span-5 lg:col-span-4 relative">
+                    <div class="bg-gradient-to-r from-indigo-500 to-indigo-600 rounded-xl p-1">
+                        <img src="./DSC_1193 (1).jpg" alt="Profile Picture"
+                            class="rounded-xl shadow-xl transform transition duration-500 hover:scale-105">
+                    </div>
+                    <div class="absolute top-2 right-2 bg-white rounded-full p-1 shadow-md">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-indigo-600" fill="none"
+                            viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                        </svg>
+                    </div>
+                </div>
+                <div class="md:col-span-7 lg:col-span-8">
+                    <div class="bg-white p-8 rounded-xl shadow-2xl relative overflow-hidden">
+                        <div
+                            class="bg-indigo-50 absolute inset-0 -translate-y-full group-hover:translate-y-0 group-hover:duration-1000">
+                        </div>
+                        <p class="relative text-xl mb-4 z-10 font-poppins">Hello! I'm <a
+                                href="https://www.linkedin.com/in/ridoy-mojumder/" target="_blank"
+                                class="text-indigo-600 hover:text-indigo-800 underline">Ridoy Mojumder</a>, a dedicated
+                            student of Computer Science and Engineering with a focus on front-end development. I thrive
+                            on crafting engaging user interfaces that stand out for their creativity and usability.</p>
+                        <p class="relative text-xl mb-4 z-10 font-poppins">Driven by innovation and a deep interest in
+                            technology, I am actively involved in AI research, seeking ways to integrate cutting-edge
+                            technologies into practical applications.</p>
+                        <p class="relative text-xl mb-4 z-10 font-poppins">I regularly participate in hackathons,
+                            contribute to open-source projects, and am always eager to take on new challenges that push
+                            the boundaries of what I know.</p>
+                        <ul class="relative list-disc pl-5 mb-4 text-xl z-10 font-poppins">
+                            <li>Advanced proficiency in JavaScript, React, and CSS</li>
+                            <li>Active participant in global coding competitions</li>
+                            <li>Enthusiastic about AI's role in web development</li>
+                        </ul>
+                        <a href="#portfolio"
+                            class="relative inline-block bg-indigo-600 text-white px-8 py-3 rounded-full text-xl hover:bg-indigo-800 transition duration-300 z-10 font-poppins">Explore
+                            My Portfolio</a>
+                        <div
+                            class="absolute top-0 right-0 w-32 h-32 bg-indigo-600 rounded-full mix-blend-multiply filter blur-2xl opacity-30 animate-pulse">
+                        </div>
+                        <div
+                            class="absolute bottom-0 left-0 w-32 h-32 bg-indigo-600 rounded-full mix-blend-multiply filter blur-2xl opacity-30 animate-pulse">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="flex flex-wrap justify-center">
+        <div id="skills" class="skills-section pt-16 pb-20">
+            <div class="max-w-6xl mx-auto px-4">
+                <h2 class="text-5xl font-bold text-center mb-16 text-indigo-600">Skills</h2>
+                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
+                    <a href="https://reactjs.org/docs/getting-started.html" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fab fa-react text-6xl text-indigo-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">React</h3>
+                        <p class="mt-4 text-lg">Building user interfaces</p>
+                    </a>
+                    <a href="https://docs.mongodb.com/" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fas fa-database text-6xl text-green-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">MongoDB</h3>
+                        <p class="mt-4 text-lg">NoSQL database</p>
+                    </a>
+                    <a href="https://nodejs.org/en/docs/" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fab fa-node-js text-6xl text-green-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">Node.js</h3>
+                        <p class="mt-4 text-lg">Server-side JavaScript</p>
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fab fa-html5 text-6xl text-orange-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">HTML5</h3>
+                        <p class="mt-4 text-lg">Markup language for the web</p>
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fab fa-css3-alt text-6xl text-blue-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">CSS3</h3>
+                        <p class="mt-4 text-lg">Styling language for the web</p>
+                    </a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fab fa-js text-6xl text-yellow-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">JavaScript</h3>
+                        <p class="mt-4 text-lg">Programming language for the web</p>
+                    </a>
+                    <a href="https://tailwindcss.com/docs" target="_blank"
+                        class="block p-6 bg-gradient-to-r from-blue-100 to-indigo-100 rounded-xl shadow-lg hover:shadow-xl transform hover:-translate-y-2 transition duration-300 text-center">
+                        <i class="fab fa-css3 text-6xl text-indigo-600 mb-4"></i>
+                        <h3 class="text-2xl font-semibold text-indigo-600">Tailwind</h3>
+                        <p class="mt-4 text-lg">CSS framework</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div id="portfolio" class="portfolio-section py-12 bg-gray-100">
+        <div class="max-w-6xl mx-auto">
+            <h2 class="text-5xl font-bold text-center mb-16 text-indigo-600">Portfolio</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div
+                    class="portfolio-item bg-white rounded-lg shadow-md overflow-hidden transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+                    <img src="https://i.ibb.co/FxGRZyD/Screenshot-26-5-2024-225457-localhost.jpg" alt="Project 1"
+                        class="w-full h-48 object-cover object-center rounded-t-lg">
+                    <div class="p-6">
+                        <h3 class="text-lg font-semibold mb-2">Project 1</h3>
+                        <p class="text-gray-600">Description of Project 1</p>
+                        <a href="#" class="block mt-4 text-indigo-600 hover:underline">View Details</a>
+                    </div>
+                </div>
+                <div
+                    class="portfolio-item bg-white rounded-lg shadow-md overflow-hidden transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+                    <img src="https://i.ibb.co/rpg64bf/Art-And-Craft.png" alt="Project 2"
+                        class="w-full h-48 object-cover object-center rounded-t-lg">
+                    <div class="p-6">
+                        <h3 class="text-lg font-semibold mb-2">Project 2</h3>
+                        <p class="text-gray-600">Description of Project 2</p>
+                        <a href="#" class="block mt-4 text-indigo-600 hover:underline">View Details</a>
+                    </div>
+                </div>
+                <div
+                    class="portfolio-item bg-white rounded-lg shadow-md overflow-hidden transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+                    <img src="https://i.ibb.co/4RN7xkg/Screenshot-30-5-2024-1308-tastejourney-45991-web-app.jpg"
+                        alt="Project 3" class="w-full h-48 object-cover object-center rounded-t-lg">
+                    <div class="p-6">
+                        <h3 class="text-lg font-semibold mb-2">Project 3</h3>
+                        <p class="text-gray-600">Description of Project 3</p>
+                        <a href="#" class="block mt-4 text-indigo-600 hover:underline">View Details</a>
+                    </div>
+                </div>
+                <!-- Add more portfolio items as needed -->
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <div id="contact" class="contact-section relative bg-gradient-to-b from-indigo-200 to-indigo-300">
+        <div class="max-w-4xl mx-auto py-12 relative z-10">
+            <h2 class="text-3xl font-bold text-center mb-8 text-indigo-600">Contact Me</h2>
+            <form class="contact-form text-center space-y-4">
+                <input type="text" placeholder="Your Name"
+                    class="w-full p-3 rounded-lg focus:ring-2 focus:ring-indigo-600 outline-none transition duration-300 transform ">
+                <input type="email" placeholder="Your Email"
+                    class="w-full p-3 rounded-lg focus:ring-2 focus:ring-indigo-600 outline-none transition duration-300 transform ">
+                <textarea placeholder="Your Message"
+                    class="w-full p-3 h-40 rounded-lg focus:ring-2 focus:ring-indigo-600 outline-none transition duration-300 transform "></textarea>
+                <button type="submit"
+                    class="px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-600 transition duration-200 transform ">Send
+                    Message</button>
+            </form>
+        </div>
+        <div class="bg-indigo-100 absolute inset-0 z-0" style="clip-path: polygon(100% 0%, 100% 100%, 0% 100%);">
+            <!-- Background shape created with clip-path -->
+        </div>
+    </div>
+
+
+
+
+
+
+    <div class="footer bg-indigo-300 text-white py-8">
+        <nav class="flex flex-wrap justify-center mb-4">
+            <a href="#" class="mr-5 hover:text-blue-300">Home</a>
+            <a href="#" class="mr-5 hover:text-blue-300">About</a>
+            <a href="#" class="mr-5 hover:text-blue-300">Portfolio</a>
+            <a href="#" class="hover:text-blue-300">Contact</a>
+        </nav>
+        <div class="text-center">
+            <p class="mb-2">&copy; 2024 Ridoy Mojumder. All rights reserved.</p>
+            <p>Designed with ❤️ by Ridoy</p>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <script>
+        // Smooth scroll behavior
+        document.querySelectorAll('.nav-link').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+        // Active link highlight
+        window.addEventListener('scroll', () => {
+            const currentSection = document.querySelectorAll('.section').forEach(section => {
+                const sectionTop = section.offsetTop;
+                const sectionHeight = section.clientHeight;
+                if (pageYOffset >= sectionTop - sectionHeight / 3) {
+                    const id = section.getAttribute('id');
+                    document.querySelectorAll('.nav-link').forEach(link => {
+                        link.classList.remove('active-nav-link');
+                        if (link.getAttribute('href') === `#${id}`) {
+                            link.classList.add('active-nav-link');
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+
+
+</body>
+
+</html>

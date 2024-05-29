@@ -1,0 +1,43 @@
+.btn-primary {
+    background-color: #3490dc;
+}
+
+.btn-primary:hover {
+    background-color: #2779bd;
+}
+
+.btn {
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* Active link highlight */
+.active-nav-link {
+    color: #4f46e5;
+}
+
+/* Transition effects */
+.nav-link {
+    transition: color 0.3s ease;
+}
+
+/* Parallax scrolling */
+.hero {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section {
+    transition: transform 0.5s ease;
+}
