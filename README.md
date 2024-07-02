@@ -13,7 +13,7 @@ I'm a passionate Frontend Developer and CSE Student with expertise in modern web
 
 
 ## Work
-- 🔭 I’m currently working Diagnostic Center Management System **HealthTrack**
+- 🔭 I’m currently working School Management System **CampusControl**
 
 - 🌱 I’m currently learning **Front-end, MERN-stack, Django etc**
 
