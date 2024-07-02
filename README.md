@@ -1,4 +1,4 @@
-![logo](https://github.com/Ridoy-Mojumder/Ridoy-Mojumder/blob/main/Junior%20Web%20Developer.jpg)
+![logo](https://github.com/Ridoy-Mojumder/Ridoy-Mojumder/blob/48dee8c65ccba8e7af93473ea0b5ce4d31123e8f/banner.png)
 <h1 align="center">Hi 👋, I'm Ridoy Mojumder</h1>
 <h3 align="center">Frontend Developer and CSE Student with Expertise in Modern Web Technologies</h3>
 
