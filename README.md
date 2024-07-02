@@ -53,17 +53,23 @@ I'm a passionate Frontend Developer and CSE Student with expertise in modern web
 
 
 ## Pinned Repositories:
-### 1. [HealthTrack - Diagnostic Center Management System](https://github.com/Ridoy-Mojumder/HealthTrack)
+### 1. [HealthTrack - Diagnostic Center Management System](https://health-track-186e2.web.app/)
 - A system for managing diagnostic center operations.
 - Technologies used: React, MongoDB, Node.js
 - [Live Demo](https://your-health-track.herokuapp.com/)
+  - [Client Side](https://github.com/Ridoy-Mojumder/HealthTrack-clientSide)
+  - [Server Side](https://github.com/Ridoy-Mojumder/HealthTrack-serverside)
 
 ### 2. [TestJourny - Innovative Web Project](https://github.com/Ridoy-Mojumder/TestJourny)
 - An innovative web project using cutting-edge technologies.
 - Technologies used: React, Firebase, Tailwind CSS
 - [Live Demo](https://tastejourney-45991.web.app/)
+  - [Client Side](https://github.com/Ridoy-Mojumder/TasteJourney_client-side)
+  - [Server Side](https://github.com/Ridoy-Mojumder/TasteJourney-serverSide)
 
 ### 3. [Art and Craft Store](https://github.com/Ridoy-Mojumder/ArtAndCraftStore)
 - E-commerce platform for art and craft products.
 - Technologies used: Next.js, GraphQL, PostgreSQL
 - [Live Demo](https://tangerine-snickerdoodle-50d788.netlify.app/)
+  - [Client Side](https://github.com/Ridoy-Mojumder/Assignment-10-clientSide)
+  - [Server Side](https://github.com/Ridoy-Mojumder/Assignment-10-serverSite)
