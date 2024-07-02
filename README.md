@@ -6,7 +6,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridoy-mojumder&label=Profile%20views&color=0e75b6&style=flat" alt="ridoy-mojumder" /> </p>
-
+![Ridoy-Mojumder's Stats](https://github-readme-stats.vercel.app/api?username=Ridoy-Mojumder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## About Me
 I'm a passionate Frontend Developer and CSE Student with expertise in modern web technologies.
