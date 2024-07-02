@@ -11,9 +11,8 @@
 ## About Me
 I'm a passionate Frontend Developer and CSE Student with expertise in modern web technologies.
 
-![Coding](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 
-
+## Work
 - 🔭 I’m currently working Diagnostic Center Management System **HealthTrack**
 
 - 🌱 I’m currently learning **Front-end, MERN-stack, Django etc**
@@ -51,3 +50,20 @@ I'm a passionate Frontend Developer and CSE Student with expertise in modern web
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ridoy-mojumder&show_icons=true&locale=en" alt="ridoy-mojumder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mojumder&" alt="ridoy-mojumder" /></p>
+
+
+## Pinned Repositories:
+### 1. [HealthTrack - Diagnostic Center Management System](https://github.com/Ridoy-Mojumder/HealthTrack)
+- A system for managing diagnostic center operations.
+- Technologies used: React, MongoDB, Node.js
+- [Live Demo](https://your-health-track.herokuapp.com/)
+
+### 2. [TestJourny - Innovative Web Project](https://github.com/Ridoy-Mojumder/TestJourny)
+- An innovative web project using cutting-edge technologies.
+- Technologies used: React, Firebase, Tailwind CSS
+- [Live Demo](https://tastejourney-45991.web.app/)
+
+### 3. [Art and Craft Store](https://github.com/Ridoy-Mojumder/ArtAndCraftStore)
+- E-commerce platform for art and craft products.
+- Technologies used: Next.js, GraphQL, PostgreSQL
+- [Live Demo](https://tangerine-snickerdoodle-50d788.netlify.app/)
