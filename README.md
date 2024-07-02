@@ -7,6 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridoy-mojumder&label=Profile%20views&color=0e75b6&style=flat" alt="ridoy-mojumder" /> </p>
 
+
+## About Me
+I'm a passionate Frontend Developer and CSE Student with expertise in modern web technologies.
+
+![Coding](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
+
+
 - 🔭 I’m currently working Diagnostic Center Management System **HealthTrack**
 
 - 🌱 I’m currently learning **Front-end, MERN-stack, Django etc**
