@@ -65,17 +65,19 @@ I focus on clean UI, performance, and real-world problem solving.
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridoy-mojumder&layout=compact"/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ridoy-Mojumder&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridoy-mojumder&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy-Mojumder&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridoy-mojumder"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ridoy-Mojumder&theme=tokyonight" />
 </p>
+
 
 ---
 
